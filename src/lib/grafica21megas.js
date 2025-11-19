@@ -1,7 +1,5 @@
 import axios from 'axios';
-
-// Replace this token with a secure value as needed. User provided token included here.
-export const token = 'NYOm_6Gs1NYzi2UHOf4xZo7Yf9sjFopP3171PhjpPDSTvvVgeJ5rCAGbSsLDDmcCv3z4mACwOoW4YM9_kOIwLPPxknq3kDhYNKAIuQX7lmwsKlRR9_i8t-_7nTRVzk6yM97458ODx1RiZZiMgeTlgjecQEgzPWd4RY2mZdY_HEUuDEkGnfBElYFeBf6UkLGqymTcET3mxJW6NFQmM-5TeJdw2pW6ccnfrzFGzre2vmJddGJk-8MxbrU2EVFiQz43-niw_Tuzj0b4KbxeuC2CA7h4LAWmgkOmWTZkf0w5YmqnYiH5NdQYcbRIWNJU9eSrrpOlDww7j86Igvbgaps9qSDEAZl4mSMVgfWK4O7aXhaf4PXxPQR_fchAC5pLwhrxPaG-7MrDIMpE5qfxGHOZKADbAj5D0l_5UHABcYbvNghRH84K9QaCBd1jPLv1HJWyO5HZ0sN_8jvAnbh8k1PJvA94o4-vADJHlJZ1y7wYqK0g2ABI0cPvcCEiA6CwYO-5Y9UfX-UzIq2d53BX_lagIT0nvheUjNJHGhD9Iay4lyqiKpYe0XuSucW2_Bea6kOzRzD9_EgO1UhhxEdgKzn2IX636EcqhirMXRq5R2CTgxfktkxVohj4Aqbo7SmR4YM0Xa0r_syY4_5FWeK-n35shswCNd9YwBPLXItf0bpx4_mPnV4lnBwqau21Lvet4wfiSi2GjGPozI73CH3iR9kObQ';
+import { TOKEN as token } from '../config/token';
 
 export const megaIds = [
     "1yhkHn92S_uK8n65m9mfVLpgeX7vuCn-3NzLrz1cURoPlIMgd9PF_hdg9svnATlk",
@@ -52,7 +50,5 @@ export const getDataForAllMegas = async (tokenParam) => {
     throw error;
   }
 };
-//hacemos un cambio para ver el commit
-//prueba de otro cambio
-//otro cambio más
-//cambio final
+
+//hola

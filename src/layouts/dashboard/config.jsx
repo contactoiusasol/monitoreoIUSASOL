@@ -20,7 +20,7 @@ export const items = [
     label: 'Gráficas'
   },
   {
-    href: '/orders',
+    href: '/tabla21m',
     icon: (
       <SvgIcon>
         <TableChartIcon />
@@ -56,7 +56,7 @@ export const items = [
     label: '5Minutales'
   },
   {
-    href: '/404',
+    href: '/porteo',
     icon: (
       <SvgIcon>
         <AutoGraph />
@@ -65,7 +65,7 @@ export const items = [
     label: 'Porteo'
   },
   {
-    href: '/icons',
+    href: '/contratos',
     icon: (
       <SvgIcon>
         <DocumentTextIcon />
@@ -74,17 +74,16 @@ export const items = [
     label: 'Contratos'
   },
   {
-    href: '/404',
+    href: '/reportes',
     icon: (
       <SvgIcon>
         <Addchart />
       </SvgIcon>
     ),
     label: 'Reportes'
-  }
-  ,
+  },
   {
-    href: '/404',
+    href: '/error',
     icon: (
       <SvgIcon>
         <ExclamationTriangleIcon />

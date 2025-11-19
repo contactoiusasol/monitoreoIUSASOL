@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom';
 import { Layout as DashboardLayout } from './layouts/dashboard/layout';
 import IconsPage from './pages/icons';
 import NotFoundPage from './pages/404';
-import OrdersPage from './pages/orders';
+import TablaPage from './pages/tabla';
 import GraficasPage from './pages/graficas';
 import SettingsPage from './pages/settings';
 import ThemePage from './pages/theme';
@@ -31,10 +31,6 @@ export const routes = [
       {
         index: true,
         element: <GraficasPage />
-      },
-      {
-        path: 'orders',
-        element: <OrdersPage />
       },
       {
         path: 'settings',
