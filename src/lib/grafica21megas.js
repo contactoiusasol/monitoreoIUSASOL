@@ -49,4 +49,11 @@ export const getDataForAllMegas = async (tokenParam) => {
     console.error('Error fetching megas data:', error.response ? error.response.data : error.message);
     throw error;
   }
+<<<<<<< HEAD
 };
+=======
+};
+//hacemos un cambio para ver el commit
+//prueba de otro cambio
+//otro cambio más
+//cambio final
