@@ -52,3 +52,4 @@ export const getDataForAllMegas = async (tokenParam) => {
     throw error;
   }
 };
+//esto es un cambio
