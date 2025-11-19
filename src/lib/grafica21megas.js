@@ -52,4 +52,4 @@ export const getDataForAllMegas = async (tokenParam) => {
     throw error;
   }
 };
-//hacemos un cambio para ver el commit
+//hacemos un cambio para ver el commit     
