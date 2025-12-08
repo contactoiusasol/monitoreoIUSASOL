@@ -1,5 +1,8 @@
 import axios from 'axios';
-import { TOKEN as token } from '../config/token';
+import { TOKEN } from '../config/token';
+
+// Re-export a `token` named export for compatibility with imports elsewhere
+export const token = TOKEN;
 
 export const megaIds = [
     "1yhkHn92S_uK8n65m9mfVLpgeX7vuCn-3NzLrz1cURoPlIMgd9PF_hdg9svnATlk",
@@ -49,6 +52,4 @@ export const getDataForAllMegas = async (tokenParam) => {
     console.error('Error fetching megas data:', error.response ? error.response.data : error.message);
     throw error;
   }
-};//hacemos cualquier cambio para probar el commit
-//otro cambio para hacer commit
-//un cambio mas para commit
+};
