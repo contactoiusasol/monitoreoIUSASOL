@@ -33,6 +33,10 @@ export const routes = [
         element: <GraficasPage />
       },
       {
+        path: 'tabla21m',
+        element: <TablaPage />
+      },
+      {
         path: 'settings',
         element: <SettingsPage />
       },
