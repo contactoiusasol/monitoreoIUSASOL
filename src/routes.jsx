@@ -11,7 +11,9 @@ import MedidoresPage from './pages/medidores';
 import LoginPage from './pages/login';
 import SignupPage from './pages/signup';
 import { PrivateRoute } from './components/private-route';
+import PorteoPage from './pages/porteo';
 import CincoMinutalPage from './pages/cincominutal';
+import ContratosPage from './pages/contratos';
 
 export const routes = [
   {
@@ -54,6 +56,14 @@ export const routes = [
       {
         path: 'cincominutal',
         element: <CincoMinutalPage />
+      },
+      {
+        path: 'porteo',
+        element: <PorteoPage />
+      },
+      {
+        path: 'contratos',
+        element: <ContratosPage />
       },
       {
         path: 'medidores',
