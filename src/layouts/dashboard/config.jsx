@@ -47,7 +47,7 @@ export const items = [
     label: 'Medidores'
   },
   {
-    href: '/icons',
+    href: '/cincominutal',
     icon: (
       <SvgIcon>
         <AvTimer />

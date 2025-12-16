@@ -11,6 +11,7 @@ import MedidoresPage from './pages/medidores';
 import LoginPage from './pages/login';
 import SignupPage from './pages/signup';
 import { PrivateRoute } from './components/private-route';
+import CincoMinutalPage from './pages/cincominutal';
 
 export const routes = [
   {
@@ -49,6 +50,10 @@ export const routes = [
       {
         path: 'theme',
         element: <ThemePage />
+      },
+      {
+        path: 'cincominutal',
+        element: <CincoMinutalPage />
       },
       {
         path: 'medidores',
