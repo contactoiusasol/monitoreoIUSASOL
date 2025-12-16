@@ -1,0 +1,580 @@
+SERIAL,EMPRESA / NOMBRE,TIPO DE CLIENTE,R.F.C,CORREO ELECTRÓNICO,SERVICIOS,ESTATUS,GEN/NET
+000000001416SAI0301AA026,Olivia Peralta García,FISICA,XAXX010101000,operalta@iusa.com.mx,1,Activo,Neteo
+0000000000OLIVIA_PERALTA,,,,,,,
+000000001616SA1102GSM001,Olivia Peralta García,FISICA,XAXX010101000,operalta@iusa.com.mx,1,Activo,Generación
+0000000069I15S FD2J 18MX,"VERIFICACIONES CENTENARIO, S.A.",MORAL,VCE9607237P5,verificacentenario@gmail.com,1,Activo,Generación
+00000000000009SI0402R043,FEDERACIÓN MEXICANA DE FÚTBOL,MORAL,FMF6210196Z4,lpalma@fmf.mx,1,Activo,Generación
+00000000CYM667 F62J 18MY,CENTRO INFANTIL MARIA TERESA,MORAL,CIM970314PD8,contacto@cimt.edu.mx,2,Activo,Generación
+00000000CS0435 F62J 19MY,CENTRO INFANTIL MARIA TERESA,MORAL,CIM970314PD8,contacto@cimt.edu.mx,2,Activo,Neteo
+0000000069I92S FD2J 18MX,CENTRO INFANTIL MARIA TERESA,MORAL,CIM970314PD8,contacto@cimt.edu.mx,2,Activo,Neteo
+0000000069I80S FD2J 18MX,CENTRO INFANTIL MARIA TERESA,MORAL,CIM970314PD8,contacto@cimt.edu.mx,2,Activo,Generación
+0000000069I57S FD2J 18MX,Raúl Humberto Ferraez Pérez Pascal,FISICA,FEPR650916K60,liliana@lideresmexicanos.com,1,Activo,Generación
+0000000069I93S FD2J 18MX,Raúl Humberto Ferraez Pérez Pascal,FISICA,FEPR650916K60,liliana@lideresmexicanos.com,1,Activo,Neteo
+0000000070I21S FD2J 18MX,Tomas Gutiérrez M,FISICA,XAXX010101000,tomasg@temporal.com,1,Activo,Neteo
+0000000084I77S FD2J 20MX,Marina Servín Chávez,FISICA,SECM630822MY0,marina02@temporal.com,1,Activo,Neteo
+0000000070I15S FD2J 18MX,Mario Alberto Maciel Castro,FISICA,MACM5601261K1,mmaciel@cibanco.com,1,Activo,Neteo
+0000000084I84S FD2J 20MX,Mario Alberto Maciel Castro,FISICA,MACM5601261K1,mmaciel@cibanco.com,1,Activo,Generación
+0000000069I53S FD2J 18MX,Raúl Salinas De Gortari,FISICA,XAXX010101000,temporalrs20@gmail.com,4,Activo,Generación
+0000000081I97S FD2J 18MX,Raúl Salinas De Gortari,FISICA,XAXX010101000,temporalrs20@gmail.com,4,Activo,Generación
+0000000081I90S FD2J 18MX,Raúl Salinas De Gortari,FISICA,XAXX010101000,temporalrs20@gmail.com,4,Activo,Generación
+0000000069I07S FD2J 18MX,Patricia Treviño Botti,FISICA,TEBP530503KE6,aruizdet@hotmail.com,1,Activo,Generación
+00000000AMI120 FD2F 14XX,Alicia Silvia Ocaranza,FISICA,YUZF690925KY3,aliciatemporal@gmail.com,1,Activo,Generación
+00000000AMI117 FD2F 14XX,Alicia Silvia Ocaranza,FISICA,YUZF690925KY3,aliciatemporal@gmail.com,1,Activo,Neteo
+00000000CS0443 F62J 19MY,Mary Cruz Basurto Rivera,FISICA,BARM570827TE4,denisnis290403@gmail.com,1,Activo,Neteo
+00000000CS0457 F62J 19MY,Mary Cruz Basurto Rivera,FISICA,BARM570827TE4,denisnis290403@gmail.com,1,Activo,Generación
+00000000CS1465 F62J 19MY,CLÍNICA SERVIMED,MORAL,CSE150408PA0,servimed735@gmail.com,1,Activo,Generación
+00000000AMI124 FD2F 14XX,María Fatima Coutier,FISICA,XAXX010101000,temporaljh33@gmail.com,1,Activo,Generación
+00000000AMI116 FD2F 14XX,María Fatima Coutier,FISICA,XAXX010101000,temporaljh33@gmail.com,1,Activo,Neteo
+0000000070I86S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. oficinas",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Generación
+0000000071I18S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. oficinas",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Neteo
+0000000070I79S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. contabilidad",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Generación
+0000000071I05S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. contabilidad",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Neteo
+0000000070I88S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. RH",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Generación
+0000000071I19S F12J 18MW,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. RH",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Neteo
+00000000CYM834 F62J 18MY,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. Restaurant",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Generación
+00000000CYM811 F62J 18MY,"POLLO FELIZ DE PUEBLA, S.A. DE C.V. Restaurant",MORAL,PFP960614TJ8,administracion@pollofelizpuebla.com,4,Activo,Neteo
+00000000CYM825 F62J 18MY,Carolina Vázquez T,FISICA,TAVG710712325,gertav@yahoo.com,1,Activo,Neteo
+00000000CYM839 F62J 18MY,Carolina Vázquez T,FISICA,TAVG710712325,gertav@yahoo.com,1,Activo,Generación
+00000000CYM832 F62J 18MY,Rubén López Hidalgo,FISICA,LOHR580907EV5,rubenlopezhid@gmail.com,1,Activo,Generación
+0000000001416SA1004CA008,"HOSPITALES Y QUIRÓFANOS, S.A. DE C.V.",MORAL,HQU830207DZ1,info@hqu.com.mx,1,Activo,Generación
+0000000001416SA1004CA009,"HOSPITALES Y QUIRÓFANOS, S.A. DE C.V.",MORAL,HQU830207DZ1,info@hqu.com.mx,1,Activo,Neteo
+0000000069I16S FD2J 18MX,CONSULTORÍA LEGAL EN ENERGÍA,MORAL,CLE030326HR9,jamartinez@clener.com,1,Activo,Generación
+00000000CS1462 F62J 19MY,René Tort Rivera,FISICA,TORR630131354,rtortr@prodigy.net.mx,1,Activo,Generación
+00000000CS0447 F62J 19MY,René Tort Rivera,FISICA,TORR630131354,rtortr@prodigy.net.mx,1,Activo,Neteo
+0000000081I89S FD2J 18MX,GEMA GONZÁLEZ ZAPATA,MORAL,PYA0701162T6,smarmol@prodigy.net.mx,1,Activo,Generación
+0000000084I75S FD2J 20MX,GEMA GONZÁLEZ ZAPATA,MORAL,PYA0701162T6,smarmol@prodigy.net.mx,1,Activo,Neteo
+00000000CS1474 F62J 19MY,Imelda Guadalupe Reyes Valdivia,FISICA,REVI530806UB0,macare0713@gmail.com,1,Activo,Generación
+00000000CYM837 F62J 18MY,Juan Fernando Oropeza Sánchez,FISICA,OOSJ740221182,facturacionjos@eninfinitum.com,1,Activo,Generación
+0000000068I90S FD2J 18MX,Gerardo Del Rey López,FISICA,RELG630321SP5,delreyasociados@delreyasociados.com,1,Activo,Generación
+00000000AMI136 FD2F 14XX,Laura Esther González De Paz,FISICA,GOPL630820MF7,lauratalavera@prodigy.net.mx,1,Activo,Generación
+0000000069I48S FD2J 18MX,"INMOBILIARIA VIRTA, S.A. DE C.V.",MORAL,IVI0404238V2,virta95@yahoo.com.mx,1,Activo,Generación
+0000000084I63S FD2J 20MX,"INMOBILIARIA VIRTA, S.A. DE C.V.",MORAL,IVI0404238V2,virta95@yahoo.com.mx,1,Activo,Neteo
+00000000CYM498 KL2E 17NA,Jose Martin Tellez Monroy,FISICA,XAXX010101000,,1,Activo,Generación
+00000000CS2445 F62J 19MY,Jose Luis Valdes Ontiveros,FISICA,XAXX010101000,jose.valdeso@hotmail.com,1,Activo,Generación
+00000000CS2447 F62J 19MY,Hoffmann Gerardo Gonzalez Meza,FISICA,GOHG790930K70,lfjtraducciones@gmail.com,1,Activo,Generación
+00000000CS2453 F62J 19MY,Ricardo Zapata Marti 8 modulos,FISICA,ZAMR470217AK3,c.castillan@gmail.com,2,Activo,Generación
+00000000CS2450 F62J 19MY,Sheila Peon Prendes,FISICA,PEPS8311026U8,sheilapeon@live.com,1,Activo,Generación
+00000000CS2458 F62J 19MY,Jose Antonio Alavez Mejia,FISICA,AAMA861224JF3,jaam_gpotonito@hotmail.com,1,Activo,Generación
+00000000020IS6 FD2J 21MX,MCM MAQUILADORA COSMETICA MEXICANA SA DE CV,MORAL,MMC0804013J8,eduardodelarosa@yahoo.com.mx,2,Activo,Generación
+00000000CS2454 F62J 19MY,Ricardo Zapata Marti 12 modulos,FISICA,ZAMR470217AK3,c.castillan@gmail.com,2,Activo,Generación
+00000000020IS7 FD2J 21MX,Rolando Andrade Guzman,FISICA,XAXX010101000,los3.compadres@yahoo.com.mx,1,Activo,Generación
+00000000020IS8 FD2J 21MX,MCM MAQUILADORA COSMETICA MEXICANA SA DE CV,MORAL,MMC0804013J8,eduardodelarosa@yahoo.com.mx,2,Activo,Generación
+0000000069I10S FD2J 18MX,Xavier Lopez Rodriguez,FISICA,LORX3502173X9,teremt8@yahoo.com,1,Activo,Generación
+0000000001412SA1004CA007,Guillermo Gutierrez Rios,FISICA,GURG450603MT0,comosmin@prodigy.net.mx,1,Activo,Generación
+0000000001412SA1004CA006,Guillermo Gutierrez Rios,FISICA,GURG450603MT0,comosmin@prodigy.net.mx,1,Activo,Neteo
+0000000081I85S FD2J 18MX,Maria Laura Del Rio Gonzalez,FISICA,XAXX010101000,laladelrio@hotmail.com,1,Activo,Generación
+0000000084I65S FD2J 20MX,Maria Laura Del Rio Gonzalez,FISICA,XAXX010101000,laladelrio@hotmail.com,1,Activo,Neteo
+0000000070I23S FD2J 18MX,Guillermo Daniel Barroso Montull,FISICA,BAMG540207QG2,c.cardiel@administrategia.com,1,Activo,Neteo
+0000000084I98S FD2J 20MX,Guillermo Daniel Barroso Montull,FISICA,BAMG540207QG2,c.cardiel@administrategia.com,1,Activo,Generación
+0000000069I03S FD2J 18MX,INGENIERIA Y VERIFICACION PANTITLAN,MORAL,IVP121016D42,it9083@live.com,2,Activo,Generación
+0000000084I53S FD2J 20MX,INGENIERIA Y VERIFICACION PANTITLAN,MORAL,IVP121016D42,it9083@live.com,2,Activo,Neteo
+0000000069I77S FD2J 18MX,ELECTROTECNICA BERLIN S.A. DE C.V.,MORAL,ETB121204E40,electrotecnicaberlin@hotmail.com,1,Activo,Generación
+0000000068I89S FD2J 18MX,Ricardo Aleman Estefes,FISICA,AEER640618BA2,ricardo640618@yahoo.com.mx,1,Activo,Generación
+0000000068I99S FD2J 18MX,Carlos Enrique Abrego Ayala,FISICA,XAXX010101000,cabrego.md@gmail.com,1,Activo,Neteo
+0000000069I76S FD2J 18MX,Carlos Enrique Abrego Ayala,FISICA,XAXX010101000,cabrego.md@gmail.com,1,Activo,Generación
+0000000069I90S FD2J 18MX,INGENIERIA Y VERIFICACION PANTITLAN,MORAL,IVP121016D42,it9083@live.com,2,Activo,Neteo
+0000000084I73S FD2J 20MX,INGENIERIA Y VERIFICACION PANTITLAN,MORAL,IVP121016D42,it9083@live.com,2,Activo,Generación
+0000000071I02S F12J 18MW,Adolfo Elicea Piza,FISICA,XAXX010101000,adolfoeliceapiza@yahoo.com,1,Activo,Neteo
+0000000084I50S F12J 20MW,Dora Elena Real Salinas,FISICA,RESD721122S77,doraelena_real@hotmail.com,1,Activo,Generación
+0000000084I39S F12J 20MW,Dora Elena Real Salinas,FISICA,RESD721122S77,doraelena_real@hotmail.com,1,Activo,Neteo
+0000000070I12S FD2J 18MX,PANIFICADORA SAN RAFAEL S.A. DE C.V.,MORAL,PSR990308L38,pansanrafael@outlook.com,1,Activo,Neteo
+0000000069I54S FD2J 18MX,PANIFICADORA SAN RAFAEL S.A. DE C.V.,MORAL,PSR990308L38,pansanrafael@outlook.com,1,Activo,Generación
+0000000070I27S FD2J 18MX,Araceli Graciela Edid Calderon,FISICA,EICA580210PN0,chely707@gmail.com,1,Activo,Neteo
+0000000069I18S FD2J 18MX,Carmen Beatriz Lopez Portillo Romano,FISICA,XAXX010101000,rafael_tovar@hotmail.com,1,Activo,Generación
+0000000070I07S FD2J 18MX,Carmen Beatriz Lopez Portillo Romano,FISICA,XAXX010101000,rafael_tovar@hotmail.com,1,Activo,Neteo
+0000000070I18S FD2J 18MX,INFINITY LAMINATES RESEARCH SA,MORAL,ILR111214RA6,ilrmexico@gmail.com,1,Activo,Neteo
+0000000070I83S F12J 18MW,INFINITY LAMINATES RESEARCH SA,MORAL,ILR111214RA6,ilrmexico@gmail.com,1,Activo,Generación
+0000000069I55S FD2J 18MX,INMOBILIARIA PA,MORAL,SCO0710296D0,juancsalinas@mac.com,1,Activo,Generación
+0000000070I58S FD2J 18MX,INMOBILIARIA PA,MORAL,SCO0710296D0,juancsalinas@mac.com,1,Activo,Neteo
+0000000069I71S FD2J 18MX,BALUARTE 70 S.A. DE C.V.,MORAL,BAL1308218I1,dirbaluarte70@hotmail.com,1,Activo,Generación
+0000000070I65S FD2J 18MX,Marco Rodriguez Aguilar,FISICA,XAXX010101000,hollflowers13@yahoo.com.mx,1,Activo,Neteo
+0000000070I53S FD2J 18MX,Emilia Stivalet Hernandez,FISICA,SIHE590921C70,granodeoro_tab@yahoo.com.mx,1,Activo,Generación
+0000000084I57S FD2J 20MX,Emilia Stivalet Hernandez,FISICA,SIHE590921C70,granodeoro_tab@yahoo.com.mx,1,Activo,Neteo
+0000000069I31S FD2J 18MX,Simon Cohen Hamui,FISICA,XAXX010101000,scohen@babycreysi.com,1,Activo,Generación
+0000000084I79S FD2J 20MX,"FRAGOSO, CAUSIDICUS S.C. Desarrolladores 128",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Generación
+0000000084I68S FD2J 20MX,"FRAGOSO, CAUSIDICUS S.C. Desarrolladores 128",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Neteo
+0000000069I50S FD2J 18MX,DIECSA S.A. DE C.V.,MORAL,DIE820910A70,mneuman@camexcelsior.com.mx,1,Activo,Generación
+00000000CYM486 KL2E 17NA,Karla Macaria Quintana Vazquez,FISICA,QUVK7504268G4,direccion@gpoquva.com.mx,1,Activo,Generación
+00000000CYM502 KL2E 17NA,Karla Macaria Quintana Vazquez,FISICA,QUVK7504268G4,direccion@gpoquva.com.mx,1,Activo,Neteo
+0000000070I62S FD2J 18MX,"FRAGOSO, CAUSIDICUS S.C. P-118",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Generación
+0000000070I25S FD2J 18MX,Jorge Alberto Shaw Muller,FISICA,XAXX010101000,denver1138@gmail.com,1,Activo,Neteo
+0000000084I59S FD2J 20MX,"FRAGOSO, CAUSIDICUS S.C. P-116",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Neteo
+0000000084I80S FD2J 20MX,"FRAGOSO, CAUSIDICUS S.C. P-116",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Generación
+0000000064I22S F12J 17MW,Jose Abel Acuña Bonilla,FISICA,AUBA630702B58,acunaonion1@gmail.com,2,Activo,Neteo
+0000000069I95S FD2J 18MX,TIENDAS DE DESCUENTO DRINKS DEPOT,MORAL,TDC970225L82,daniel.marez@drinksdepot.com.mx,2,Activo,Neteo
+0000000069I28S FD2J 18MX,TIENDAS DE DESCUENTO DRINKS DEPOT,MORAL,TDC970225L82,daniel.marez@drinksdepot.com.mx,2,Activo,Generación
+00000000CS2457 F62J 19MY,"FRAGOSO, CAUSIDICUS S.C. CASA",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Generación
+00000000CS1469 F62J 19MY,Daniel A Bonilla Prieto,FISICA,XAXX010101000,bonilla_prieto@hotmail.com,1,Activo,Generación
+00000000CYM827 F62J 18MY,Daniel A Bonilla Prieto,FISICA,XAXX010101000,bonilla_prieto@hotmail.com,1,Activo,Neteo
+00000000CS0451 F62J 19MY,Hugo Tellez Olmos,FISICA,TEOH7605224W3,htolmos@hotmail.com,1,Activo,Neteo
+00000000CS0460 F62J 19MY,Hugo Tellez Olmos,FISICA,TEOH7605224W3,htolmos@hotmail.com,1,Activo,Generación
+00000000CS0446 F62J 19MY,Lucia Aparicio Garcia,FISICA,AAGL730725547,miguelespram@gmail.com,1,Activo,Neteo
+0000000082I00S FD2J 18MX,Edgar Tams Lopez,FISICA,TALE560623DT2,,1,Activo,Neteo
+00000000CYM813 F62J 18MY,Maria Enriqueta Velazquez Jimenez,FISICA,XAXX010101000,qfbketa@hotmail.com,1,Activo,Neteo
+00000000CS0463 F62J 19MY,Maria Enriqueta Velazquez Jimenez,FISICA,XAXX010101000,qfbketa@hotmail.com,1,Activo,Generación
+00000000CS0454 F62J 19MY,Angelica Maria Padilla Crespo,FISICA,XAXX010101000,apcrespo27@gmail.com,1,Activo,Generación
+00000000CS0450 F62J 19MY,Angelica Maria Padilla Crespo,FISICA,XAXX010101000,apcrespo27@gmail.com,1,Activo,Neteo
+00000000CS0439 F62J 19MY,LOSOLI S.C.,MORAL,XAX010101000,jloliver@iusa.com.mx,1,Activo,Neteo
+00000000CS0464 F62J 19MY,LOSOLI S.C.,MORAL,XAX010101000,jloliver@iusa.com.mx,1,Activo,Generación
+00000000CS0465 F62J 19MY,Jose Luis Ochoa Martinez,FISICA,XAXX010101000,huttman@hotmail.com,1,Activo,Generación
+00000000CS0466 F62J 19MY,Maria Elena Gutierrez Alvarez,FISICA,SOGA860802I72,daniel-leo18@hotmail.com,1,Activo,Generación
+00000000CS0471 F62J 19MY,Gabriela Zamora Chavez,FISICA,ZACG590324K69,lasglorias393@gmail.com,1,Activo,Generación
+0000000081I95S FD2J 18MX,Jesus Carranza Maria,FISICA,XAXX010101000,lmgjesuscpe@gmail.com,1,Activo,Neteo
+00000000CS0472 F62J 19MY,Trinidad Angel Cardiel Vertiz,FISICA,XAXX010101000,tacardiel@gmail.com,1,Activo,Generación
+0000000081I93S FD2J 18MX,Jesus Carranza Maria,FISICA,XAXX010101000,lmgjesuscpe@gmail.com,1,Activo,Generación
+00000000CS1449 F62J 19MY,Trinidad Angel Cardiel Vertiz,FISICA,XAXX010101000,tacardiel@gmail.com,1,Activo,Neteo
+00000000CS0469 F62J 19MY,Juan Cruz Gonzalez,FISICA,GOCJ630831K69,jgonzalezcr@live.com.mx,1,Activo,Generación
+00000000CS1460 F62J 19MY,Victor Manuel Rodriguez Saad,FISICA,ROSV431223TL4,virosaad@yahoo.com.mx,1,Activo,Neteo
+00000000CS0470 F62J 19MY,Victor Manuel Rodriguez Saad,FISICA,ROSV431223TL4,virosaad@yahoo.com.mx,1,Activo,Generación
+00000000CS0434 F62J 19MY,Linda Valencia Perez,FISICA,SARL5506127L8,samanoramos@yahoo.com.mx,1,Activo,Neteo
+00000000CS0458 F62J 19MY,Linda Valencia Perez,FISICA,SARL5506127L8,samanoramos@yahoo.com.mx,1,Activo,Generación
+0000000070I59S FD2J 18MX,Ernesto Salomon Fajer Valencia,FISICA,FAVE760325B88,aeo.moda@gmail.com,1,Activo,Neteo
+0000000081I84S FD2J 18MX,Ernesto Salomon Fajer Valencia,FISICA,FAVE760325B88,aeo.moda@gmail.com,1,Activo,Generación
+0000000070I61S FD2J 18MX,Jose Francisco de Paula Villicaña Gallegos,FISICA,VIGF690108G23,analia_garza@yahoo.com,1,Activo,Neteo
+0000000081I86S FD2J 18MX,Jose Francisco de Paula Villicaña Gallegos,FISICA,VIGF690108G23,analia_garza@yahoo.com,1,Activo,Generación
+00000000CS0437 F62J 19MY,Enrique Patiño Magnani Aguilar Cervantes,FISICA,XAXX010101000,recepcion@acpm.mx,1,Activo,Neteo
+0000000081I99S FD2J 18MX,CIA. INMOBILIARIA LINCOLN MEXI,MORAL,ILM791203K50,inmolincoln@yahoo.com.mx,1,Activo,Neteo
+0000000084I55S FD2J 20MX,CIA. INMOBILIARIA LINCOLN MEXI,MORAL,ILM791203K50,inmolincoln@yahoo.com.mx,1,Activo,Generación
+00000000CYM815 F62J 18MY,Marco Antonio Perez Olvera,FISICA,PEOM740925QM4,dr_marcoperez@gmail.com,1,Activo,Neteo
+0000000070I51S FD2J 18MX,Maria Isela Gomez Garcia,FISICA,CATL490816MI8,aljim53@yahoo.com.mx,1,Activo,Neteo
+0000000081I87S FD2J 18MX,Maria Isela Gomez Garcia,FISICA,CATL490816MI8,aljim53@yahoo.com.mx,1,Activo,Generación
+0000000085I00S FD2J 20MX,Elizabeth Garcia Guadarrama Zavaleta,FISICA,XAXX010101000,,1,Activo,Generación
+0000000081I96S FD2J 18MX,Elizabeth Garcia Guadarrama Zavaleta,FISICA,XAXX010101000,,1,Activo,Neteo
+0000000081I88S FD2J 18MX,Guillermo Arcos Lozano,FISICA,AOLG651118A30,guillermo_arcos_lozano@hotmail.com,1,Activo,Generación
+0000000081I94S FD2J 18MX,Guillermo Arcos Lozano,FISICA,AOLG651118A30,guillermo_arcos_lozano@hotmail.com,1,Activo,Neteo
+0000000081I92S FD2J 18MX,"DJM ASESORES, S.C.",MORAL,DAS081011LB8,olavarri_arquitectos@hotmail.com,1,Activo,Generación
+0000000082I02S FD2J 18MX,"DJM ASESORES, S.C.",MORAL,DAS081011LB8,olavarri_arquitectos@hotmail.com,1,Activo,Neteo
+0000000069I43S FD2J 18MX,Abraham Askenazi Abadi,FISICA,AEAA580327DE8,abraham@ucad.mx,1,Activo,Generación
+0000000082I03S FD2J 18MX,Abraham Askenazi Abadi,FISICA,AEAA580327DE8,abraham@ucad.mx,1,Activo,Neteo
+0000000084I54S FD2J 20MX,Alejo Peralta P,FISICA,XAXX010101000,alejoperalta@iusa.com.mx,1,Activo,Neteo
+0000000084I56S FD2J 20MX,Jose Pablo Rueda Villalpando,FISICA,RUVP600119SS1,pabloruedamx@yahoo.com.mx,1,Activo,Neteo
+0000000084I88S FD2J 20MX,Jose Pablo Rueda Villalpando,FISICA,RUVP600119SS1,pabloruedamx@yahoo.com.mx,1,Activo,Generación
+0000000084I96S FD2J 20MX,Jose Luis Acosta Acosta,FISICA,AOAL601109SP9,luis_acosta2@hotmail.com,2,Activo,Generación
+0000000069I74S FD2J 18MX,Bernardo Huerta Chavez,FISICA,XAXX010101000,facturaciontotaldeherramientas@hotmail.com,3,Activo,Generación
+0000000084I60S FD2J 20MX,Bernardo Huerta Chavez,FISICA,XAXX010101000,facturaciontotaldeherramientas@hotmail.com,3,Activo,Neteo
+0000000084I64S FD2J 20MX,Carlos Gustavo Cantu Duran,FISICA,CADC7003263K1,alexandracampos2@me.com,1,Activo,Neteo
+00000000CS1472 F62J 19MY,Carlos Gustavo Cantu Duran,FISICA,CADC7003263K1,alexandracampos2@me.com,1,Activo,Generación
+0000000069I69S FD2J 18MX,Karen Plotnik Cisneros,FISICA,XAXX010101000,mplotnik9@gmail.com,1,Activo,Generación
+0000000084I62S FD2J 20MX,Karen Plotnik Cisneros,FISICA,XAXX010101000,mplotnik9@gmail.com,1,Activo,Neteo
+0000000084I92S FD2J 20MX,Bonifacio Valdez Vazquez,FISICA,VAVB470830K91,,1,Activo,Generación
+0000000084I66S FD2J 20MX,Bonifacio Valdez Vazquez,FISICA,VAVB470830K91,,1,Activo,Neteo
+0000000069I13S FD2J 18MX,AZUCARERA DE SAHUAYO S.A. DE C.V.,MORAL,ASA150520CH9,eizepeta@hotmail.com,1,Activo,Generación
+0000000084I69S FD2J 20MX,AZUCARERA DE SAHUAYO S.A. DE C.V.,MORAL,ASA150520CH9,eizepeta@hotmail.com,1,Activo,Neteo
+00000000CS1456 F62J 19MY,Sergio Erasto Pedro,FISICA,EAPS880507FG6,elenajuarez1018@gmail.com,1,Activo,Generación
+0000000084I78S FD2J 20MX,Javier Curiel Obscura,FISICA,XAXX010101000,j.curiel@mah.com.mx,1,Activo,Generación
+0000000084I72S FD2J 20MX,Javier Curiel Obscura,FISICA,XAXX010101000,j.curiel@mah.com.mx,1,Activo,Neteo
+00000000CS1447 F62J 19MY,CARGADOR DE BATERIAS IONEX,MORAL,XAX010101000,,1,Activo,Neteo
+0000000070I05S FD2J 18MX,Cecilia Ugalde Haro,FISICA,CAOC6211112M1,ccanales@al-koat.com,1,Activo,Neteo
+0000000084I85S FD2J 20MX,Cecilia Ugalde Haro,FISICA,CAOC6211112M1,ccanales@al-koat.com,1,Activo,Generación
+0000000084I86S FD2J 20MX,Martha Carmen Ibarra Gutierrez,FISICA,IAGM700605P18,mcibarramx@yahoo.com,1,Activo,Generación
+00000000CS1452 F62J 19MY,Leonardo Martinez Alvarez,FISICA,MAAL611106P50,hleonardo50@hotmail.com,1,Activo,Neteo
+0000000084I70S FD2J 20MX,Lorena Barrera H,FISICA,BAHL590510EY0,tathacaba@gmail.com,1,Activo,Neteo
+0000000084I93S FD2J 20MX,Lorena Barrera H,FISICA,BAHL590510EY0,tathacaba@gmail.com,1,Activo,Generación
+0000000084I94S FD2J 20MX,Claudia Ruiz Massieu Salinas,FISICA,XAXX010101000,reginamvera1@gmail.com,2,Activo,Neteo
+00000000CS1528 F62J 17MY,Ana Bertha Cienfuegos Gutierrez,FISICA,XAXX010101000,moy66@hotmail.com,2,Activo,Generación
+0000000070I52S FD2J 18MX,Claudia Ruiz Massieu Salinas,FISICA,XAXX010101000,reginamvera1@gmail.com,2,Activo,Neteo
+0000000069I97S FD2J 18MX,Aurelio Gutierrez Rueda,FISICA,GURA411222T82,lanuevabodeguita@prodigy.net.mx,1,Activo,Neteo
+0000000084I95S FD2J 20MX,Aurelio Gutierrez Rueda,FISICA,GURA411222T82,lanuevabodeguita@prodigy.net.mx,1,Activo,Generación
+0000000085I01S FD2J 20MX,Juan Francisco Valdez Morales,FISICA,XAXX010101000,fisma@prodigy.net.mx,1,Activo,Generación
+0000000084I45S F12J 20MW,Maria Teresa Salado Castañeda,FISICA,XAXX010101000,chocolatesgogan@hotmail.com,1,Activo,Generación
+0000000084I34S F12J 20MW,Maria Teresa Salado Castañeda,FISICA,XAXX010101000,chocolatesgogan@hotmail.com,1,Activo,Neteo
+0000000070I76S F12J 18MX,Luis Rodriguez Arrieta,FISICA,XAXX010101000,luis_arrieta63@hotmail.com,1,Activo,Neteo
+0000000084I38S F12J 20MW,Angel Gutierrez Z,FISICA,GUZA570514DT4,ikarosalpha75z@gmail.com,1,Activo,Neteo
+0000000084I47S F12J 20MW,Angel Gutierrez Z,FISICA,GUZA570514DT4,ikarosalpha75z@gmail.com,1,Activo,Generación
+00000000CS1459 F62J 19MY,REPRESENTACIONES Y SUMINISTROS,MORAL,RSI010706FI3,lui.sanvicente@gpoalsa.com,1,Activo,Neteo
+00000000CS1471 F62J 19MY,Herman Antonio Backhoff Pohls,FISICA,BAPH580613LR1,hermanbackhoff53@gmail.com,1,Activo,Generación
+0000000071I11S F12J 18MW,GRUPO DE SERVICIOS CORAL,MORAL,XAX010101000,lavinjrl@gmail.com,1,Activo,Neteo
+0000000084I42S F12J 20MW,GRUPO DE SERVICIOS CORAL,MORAL,XAX010101000,lavinjrl@gmail.com,1,Activo,Generación
+0000000071I00S F12J 18MW,Juan Javier Garcia Sanchez,FISICA,GASJ541209GC4,garciasanchezjuanjavier52@gmail.com,1,Activo,Neteo
+0000000084I37S F12J 20MW,Juan Javier Garcia Sanchez,FISICA,GASJ541209GC4,garciasanchezjuanjavier52@gmail.com,1,Activo,Generación
+0000000084I87S FD2J 20MX,AEROPUERTO INTERNACIONAL DE SANTA LUCIA,MORAL,XAX010101000,aeropuerto.santalucia@gob.mx,2,Activo,Generación
+00000000CS1464 F62J 19MY,Rosa Fragoso Rojo,FISICA,FARR5409119G9,rosafr68@hotmail.com,1,Activo,Generación
+00000000CS1470 F62J 19MY,CAPITAL C.P.S. DE R.L.,MORAL,CCP160831B46,cpc@gmi.com.mx,1,Activo,Generación
+00000000CYM798 VL2E 17NB,LA ISLA TEPOZTLAN S.A. DE C.V.,MORAL,XAX010101000,la_isla@prodigy.net.mx,1,Activo,Generación
+00000000CYM801 VL2E 17NB,BABY CREYSI S.A. DE C.V.,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM475 KL2E 17NA,SERVICIO ARENAS S.A. DE C.V.,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM660 KL2E 17NA,SERVICIO ARENAS S.A. DE C.V.,MORAL,XAX010101000,,1,Activo,Neteo
+0000000069I59S FD2J 18MX,Maria Antonieta Checa Levien,FISICA,CELM5806296W6,mchecam@gmail.com,1,Activo,Generación
+0000000084I41S F12J 20MW,Eva Contreras Acosta,FISICA,COAE4811112C0,allisonvega11@gmail.com,1,Activo,Generación
+0000000069I40S FD2J 18MX,Marco Rodriguez Aguilar,FISICA,XAXX010101000,hollflowers13@yahoo.com.mx,1,Activo,Generación
+0000000064I31S F12J 17MW,Jose Abel Acuña Bonilla,FISICA,AUBA630702B58,acunaonion1@gmail.com,2,Activo,Neteo
+0000000070I85S F12J 18MW,Jose Abel Acuña Bonilla CASA,FISICA,AUBA630702B58,acunaonion1@gmail.com,2,Activo,Generación
+00000000CS0456 F62J 19MY,Edgar Tams Lopez,FISICA,TALE560623DT2,,1,Activo,Generación
+0000000084I44S F12J 20MW,Rebeca Hernandez Vieyra,FISICA,HEVR6803087C9,rebee.herviey@gmail.com,1,Activo,Generación
+0000000084I33S F12J 20MW,Rebeca Hernandez Vieyra,FISICA,HEVR6803087C9,rebee.herviey@gmail.com,1,Activo,Neteo
+0000000084I67S FD2J 20MX,Francisca Sanchez Garcia,FISICA,GASJ541209GC4,,1,Activo,Neteo
+0000000084I90S FD2J 20MX,Francisca Sanchez Garcia,FISICA,GASJ541209GC4,,1,Activo,Generación
+0000000069I68S FD2J 18MX,Rosa Maria Varela Pindter,FISICA,VABR480716CV2,fjacobson@iusa.com.mx,2,Activo,Generación
+0000000084I74S FD2J 20MX,Rosa Maria Varela Pindter casa 10,FISICA,VABR480716CV2,fjacobson@iusa.com.mx,2,Activo,Neteo
+00000000CS1466 F62J 19MY,Jose Luis Acosta Acosta,FISICA,AOAL601109SP9,luis_acosta2@hotmail.com,2,Activo,Generación
+00000000CS0441 F62J 19MY,Jose Luis Acosta Acosta,FISICA,AOAL601109SP9,luis_acosta2@hotmail.com,2,Activo,Neteo
+0000000084I76S FD2J 20MX,TABAST COMERCIALIZADORA S.A. DE C.V.,MORAL,TCO160913LQ6,jesuscpe@gmail.com,1,Activo,Neteo
+00000000CYM442 KL2E 17NA,Jose Rafael Ojeda Duran,FISICA,XAXX010101000,javieralanis12@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA058,MAXISPACE METEPEC S.A. DE C.V.,MORAL,XAX010101000,metepec@maxispace.com.mx,1,Activo,Generación
+00000000CYM790 VL2E 17NB,GRANJA SOLAR LUIS MUÑIZ,MORAL,XAX010101000,jcornejo@iusasol.mx,1,Activo,Generación
+00000000021IS3 FD2J 21MX,Carlos Peralta,FISICA,XAXX010101000,,1,Activo,Neteo
+00000000CS2464 F62J 19MY,Carlos Peralta,FISICA,XAXX010101000,,1,Activo,Generación
+0000000084I82S FD2J 20MX,TIENDAS DE DESCUENTO DRINKS DEPOT,MORAL,TDC970225L82,daniel.marez@drinksdepot.com.mx,2,Activo,Generación
+0000000084I83S FD2J 20MX,Jorge Alberto Shaw Muller,FISICA,XAXX010101000,denver1138@gmail.com,1,Activo,Generación
+00000000021IS5 FD2J 21MX,Rosa Maria Varela Pindter,FISICA,VABR480716CV2,fjacobson@iusa.com.mx,2,Activo,Neteo
+00000000CS2459 F62J 19MY,Eduardo Mustri Farca,FISICA,MUFE8208224A6,eduardomustri@hotmail.com,1,Activo,Generación
+00000000022IS0 FD2J 21MX,FIT CITY CLUB,MORAL,FCC1605036Z9,,1,Activo,Generación
+00000000CYM470 KL2E 17NA,Carlos Guerrero Gonzales,FISICA,XAXX010101000,pilarguerrerorubio@gmail.com,1,Activo,Neteo
+00000000CYM473 KL2E 17NA,Carlos Guerrero Gonzales,FISICA,XAXX010101000,pilarguerrerorubio@gmail.com,1,Activo,Generación
+0000000001416SA1004BA048,Mauricio Jorge Rubio Diaz Leal,FISICA,RUDM710720T75,mrubiodl@gmail.com,1,Activo,Generación
+0000000001416SA1004BA045,Mauricio Jorge Rubio Diaz Leal,FISICA,RUDM710720T75,mrubiodl@gmail.com,1,Activo,Neteo
+0000000001412SA1004CA036,Fernando Heriberto Aguirre Serna,FISICA,XAXX010101000,lluvia1505@icloud.com,1,Activo,Generación
+0000000001412SA1004CA037,Fernando Heriberto Aguirre Serna,FISICA,XAXX010101000,lluvia1505@icloud.com,1,Activo,Neteo
+00000000CYM853 F62J 18MY,Gabriela Lara Hermida,FISICA,LAHG6808142B2,nemea@asf.edu.mx,1,Activo,Generación
+00000000021IS2 FD2J 21MX,Gabriela Lara Hermida,FISICA,LAHG6808142B2,nemea@asf.edu.mx,1,Activo,Neteo
+0000000069I65S FD2J 18MX,Andres Irme Chao Ebergenyi,FISICA,XAXX010101000,temporal_begona@temporal.com,1,Activo,Generación
+00000000CYM835 F62J 18MY,ARQUITECTURA E INGENIERIA GONZAG,MORAL,AIG0603172S0,antoniogonzaga@gonzagamx.com,1,Activo,Generación
+00000000CS2456 F62J 19MY,ARQUITECTURA E INGENIERIA GONZAG,MORAL,AIG0603172S0,antoniogonzaga@gonzagamx.com,1,Activo,Neteo
+0000000069I19S FD2J 18MX,Maria Luisa Cancino Leon,FISICA,XAXX010101000,cancinolizzy@yahoo.com,1,Activo,Generación
+00000000020IS9 FD2J 21MX,Maria Luisa Cancino Leon,FISICA,XAXX010101000,cancinolizzy@yahoo.com,1,Activo,Neteo
+00000000021IS0 FD2J 21MX,Lola Ximena Diez Barroso,FISICA,XAXX010101000,xdiezbarroso@yahoo.com,1,Activo,Neteo
+00000000021IS1 FD2J 21MX,Maria Margarita Hernandez Alvarez,FISICA,HEAM540522Q34,margaraha5@gmail.com,1,Activo,Generación
+0000000069I52S FD2J 18MX,Antonio Duek Y Amkie,FISICA,XAXX010101000,tonyduek@gmail.com,1,Activo,Generación
+0000000001416SA1004CA149,Alfonso Rodriguez A,FISICA,XAXX010101000,d.avicolalagranja@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA168,Alfonso Rodriguez A,FISICA,XAXX010101000,d.avicolalagranja@hotmail.com,1,Activo,Neteo
+00000000CS0444 F62J 19MY,LEGUMBRES VARIAS S.A. DE C.V.,MORAL,LVA120607JV2,jmramosc@prodigy.net.mx,1,Activo,Generación
+00000000021IS9 FD2J 21MX,Jose Francisco Unzueta Valera,FISICA,XAXX010101000,francisco@mrsushi.mx,1,Activo,Neteo
+0000000069I34S FD2J 18MX,Jose Francisco Unzueta Valera,FISICA,XAXX010101000,francisco@mrsushi.mx,1,Activo,Generación
+0000000001416SA1004CA147,Arturo Diaz Sanchez,FISICA,XAXX010101000,temporaln154@temporal.com,1,Activo,Generación
+0000000001416SA1004CA152,Arturo Diaz Sanchez,FISICA,XAXX010101000,temporaln154@temporal.com,1,Activo,Neteo
+00000000CYM654 KL2E 17NA,BACARARIA S.A. DE C.V.,MORAL,COR0601246M9,jmendez@coresanet.com.mx,1,Activo,Generación
+00000000CYM570 KL2E 17NA,BACARARIA S.A. DE C.V.,MORAL,COR0601246M9,jmendez@coresanet.com.mx,1,Activo,Neteo
+00000000CYM828 F62J 18MY,Daniel Arredondo Cepeda,FISICA,XAXX010101000,darredondo@iusa.com.mx,1,Activo,Neteo
+0000000070I37S FD2J 18MX,Daniel Lopez Flores,FISICA,XAXX010101000,daniel2@prodigy.net.mx,1,Activo,Neteo
+00000000CS1475 F62J 19MY,DIAGNOSTICO DE SALUD ANIMAL S.A. DE C.V.,MORAL,DSA011130J81,rodolfobautista@diagsa.com.mx,1,Activo,Generación
+0000000069I79S FD2J 18MX,María Guadalupe Araceli Ramírez Pérez,FISICA,RAPG540815AJ7,lupita_ramirez15@hotmail.com,1,Activo,Generación
+00000000021IS4 FD2J 21MX,María Guadalupe Araceli Ramírez Pérez,FISICA,RAPG540815AJ7,lupita_ramirez15@hotmail.com,1,Activo,Neteo
+0000000001416SA1004CA007,Antonio Adolfo Pastrana Martino,FISICA,PAMA720830543,antoniopastranam@gmail.com,1,Activo,Generación
+00000000021IS7 FD2J 21MX,CONSULTORÍA LEGAL EN ENERGÍA,MORAL,CLE030326HR9,jamartinez@clener.com,1,Activo,Neteo
+0000000001416SA1004CA082,Alejandra Paulina Alvarez Guerrero,FISICA,AAGA810506ST7,juanpablo.urrutia@dosha.com.mx,1,Activo,Generación
+0000000001416SA1004CA084,Alejandra Paulina Alvarez Guerrero,FISICA,AAGA810506ST7,juanpablo.urrutia@dosha.com.mx,1,Activo,Neteo
+00000000CYM622 KL2E 17NA,Pablo Peralta Garcia,FISICA,XAXX010101000,pperalta@iusa.com.mx,1,Activo,Generación
+00000000CYM618 KL2E 17NA,Pablo Peralta Garcia,FISICA,XAXX010101000,pperalta@iusa.com.mx,1,Activo,Neteo
+00000000020IS4 FD2J 21MX,Rosa Maria Varela Pindter casa 10,FISICA,VABR480716CV2,fjacobson@iusa.com.mx,2,Activo,Generación
+0000000001416SA1004CA163,ARTEFACTOS METALICOS SERRA,MORAL,XAX010101000,amse2010@prodigy.net.mx,2,Activo,Generación
+0000000001416SA1004CA158,ARTEFACTOS METALICOS SERRA,MORAL,XAX010101000,amse2010@prodigy.net.mx,2,Activo,Neteo
+00000000CS0461 F62J 19MY,Alicia Alvarez Martinez,FISICA,XAXX010101000,ruedafer20@gmail.com,1,Activo,Generación
+0000000001416SA1004CA056,Alicia Galvan Jimenez,FISICA,GAJA700130V40,saul.alonso@eecore.com,1,Activo,Generación
+0000000001416SA1004CA059,Alicia Galvan Jimenez,FISICA,GAJA700130V40,saul.alonso@eecore.com,1,Activo,Neteo
+0000000081I98S FD2J 18MX,ALVAREZ BRAVO CONTADORES Y CON,MORAL,ABC061211PC3,amanalihome@hotmail.com,1,Activo,Neteo
+00000000CYM433 KL2E 17NA,Juan Carlos Peralta Del Rio,FISICA,XAXX010101000,jcperalt@iusa.com.mx,1,Activo,Generación
+00000000CYM432 KL2E 17NA,Juan Carlos Peralta Del Rio,FISICA,XAXX010101000,jcperalt@iusa.com.mx,1,Activo,Neteo
+00000000AMI423 XXXX 14XX,Fernando Chico Pardo,FISICA,XAXX010101000,chicopardo@iusa.com.mx,1,Activo,Neteo
+0000000001416SA1004CA157,Fernando Chico Pardo,FISICA,XAXX010101000,chicopardo@iusa.com.mx,1,Activo,Generación
+0000000001416SA1004CA171,Fernando Chico Pardo,FISICA,XAXX010101000,chicopardo@iusa.com.mx,1,Activo,Generación
+00000000CYM437 KL2E 17NA,Luis Raul Samano Ramos,FISICA,SARL5506127L8,samanoramos@yahoo.com.mx,1,Activo,Generación
+00000000CYM439 KL2E 17NA,Luis Raul Samano Ramos,FISICA,SARL5506127L8,samanoramos@yahoo.com.mx,1,Activo,Neteo
+0000000069I36S FD2J 18MX,Ursula Otegui Liñero,FISICA,OELU830105U56,ursulaotegui@gmail.com,1,Activo,Generación
+00000000CYM783 VL2E 17NB,Carlos Peralta Quintero,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Neteo
+00000000CS0497 VL2E 19NB,Carlos Peralta Quintero zona sur,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Generación
+00000000CS0498 VL2E 19NB,Carlos Peralta Quintero zona Este,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Generación
+00000000CYM784 VL2E 17NB,Carlos Peralta Quintero zona Oeste,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R045,Carlos Peralta Quintero Barda,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Generación
+0000000069I51S FD2J 18MX,Carlos Peralta Quintero Huatulco,FISICA,XAXX010101000,carlosperalta@iusa.com.mx,2,Activo,Generación
+0000000069I89S FD2J 18MX,Angelica Alanis Reyes,FISICA,AARA7008265N5,protex@live.com.mx,1,Activo,Neteo
+0000000069I02S FD2J 18MX,Carlos Shapiro Kudler,FISICA,SAKC500718JR4,cshapiro@acumen.mx,1,Activo,Neteo
+00000000CS1980 VL2E 19NB,IUSA S.A. DE C.V.,MORAL,IUN390731NH9,,1,Activo,Neteo
+0000000001416SA1004CA108,Carolina Quintana Maya Q101,FISICA,QUMC640527LR6,raquel1@frutasmaya.com,2,Activo,Generación
+0000000001416SA1004CA109,Carolina Quintana Maya Q101,FISICA,QUMC640527LR6,raquel1@frutasmaya.com,2,Activo,Neteo
+0000000001416SA1004CA083,Carolina Quintana Maya,FISICA,QUMC640527LR6,raquel1@frutasmaya.com,2,Activo,Neteo
+0000000001416SA1004CA081,Carolina Quintana Maya,FISICA,QUMC640527LR6,raquel1@frutasmaya.com,2,Activo,Neteo
+0000000070I03S FD2J 18MX,Christiane Fernandez Teroune,FISICA,FETC640121JX1,kicoleta@me.com,1,Activo,Neteo
+0000000069I45S FD2J 18MX,Clemencia Pizzuto Del Moral,FISICA,XAXX010101000,cpizzuto@endesk.com,1,Activo,Generación
+0000000069I99S FD2J 18MX,Clemencia Pizzuto Del Moral,FISICA,XAXX010101000,cpizzuto@endesk.com,1,Activo,Neteo
+0000000070I78S F12J 18MW,COMERCIALIZADORA DE PRODUCTOS BASICOS Y ECONOMICOS S.A. DE C.V.,MORAL,CPB140318KD7,compraslafavorita@gmail.com,1,Activo,Generación
+0000000071I10S F12J 18MW,COMERCIALIZADORA DE PRODUCTOS BASICOS Y ECONOMICOS S.A. DE C.V.,MORAL,CPB140318KD7,compraslafavorita@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA110,COMERCIALIZADORA LEBASI S.A.,MORAL,CLE020307CG7,sergio.medina@grupobebo.com,1,Activo,Generación
+00000000000009SI0402R036,COMERCIALIZADORA LEBASI S.A.,MORAL,CLE020307CG7,sergio.medina@grupobebo.com,1,Activo,Neteo
+0000000084I89S FD2J 20MX,David Ortega Ruiz,FISICA,OERD780513FK2,ordavid@live.com.mx,1,Activo,Generación
+0000000084I71S FD2J 20MX,David Ortega Ruiz,FISICA,OERD780513FK2,ordavid@live.com.mx,1,Activo,Neteo
+00000000CYM575 KL2E 17NA,Elvira Zaga Kalach,FISICA,ZAKE701003CY8,iedid@ediprint.com,1,Activo,Generación
+00000000CYM577 KL2E 17NA,Elvira Zaga Kalach,FISICA,ZAKE701003CY8,iedid@ediprint.com,1,Activo,Neteo
+0000000001416SA1004CA133,FERREPEGA S.A. DE C.V.,MORAL,FER020522FH5,adrian.perez@ferrepega.com,1,Activo,Generación
+0000000001416SA1004CA134,FERREPEGA S.A. DE C.V.,MORAL,FER020522FH5,adrian.perez@ferrepega.com,1,Activo,Neteo
+00000000CYM649 KL2E 17NA,FRACCIONADORA Y CONSTRUCTORA MEXICANA,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM662 KL2E 17NA,FRACCIONADORA Y CONSTRUCTORA MEXICANA,MORAL,XAX010101000,,1,Activo,Neteo
+0000000001416SA1004CA035,Francisco Rogerio De la Selva Ostos,FISICA,SEOF600318HN1,fselva@certifica-t.com,1,Activo,Generación
+0000000001416SA1004CA036,Francisco Rogerio De la Selva Ostos,FISICA,SEOF600318HN1,fselva@certifica-t.com,1,Activo,Neteo
+0000000069I70S FD2J 18MX,Gamaliel Guzman Suarez,FISICA,GUSG750922MM9,zapateriasguzman@hotmail.com,1,Activo,Generación
+0000000070I10S FD2J 18MX,Gamaliel Guzman Suarez,FISICA,GUSG750922MM9,zapateriasguzman@hotmail.com,1,Activo,Neteo
+0000000069I83S FD2J 18MX,Gerardo Diaz Villavicencio,FISICA,VIDG710501GP4,villavicencios@asf.edu.mx,1,Activo,Generación
+0000000069I84S FD2J 18MX,GRUPO COMERCIAL EXCELSIOR S.A.,MORAL,GCE041202HD8,eduardoneuman@me.com,1,Activo,Generación
+0000000070I08S FD2J 18MX,GRUPO COMERCIAL EXCELSIOR S.A.,MORAL,GCE041202HD8,eduardoneuman@me.com,1,Activo,Neteo
+0000000071I21S F12J 18MW,Guadalupe Chavez Tellez,FISICA,CATG721212L73,oiga2008@hotmail.com,1,Activo,Neteo
+0000000000141SA1805CA029,Guillermo Gomez Tellez,FISICA,GOTG600111EQ3,sonrics101@live.com.mx,1,Activo,Neteo
+0000000000141SA1805CA034,Guillermo Gomez Tellez,FISICA,GOTG600111EQ3,sonrics101@live.com.mx,1,Activo,Generación
+0000000000141SA1805CA004,Homar Olguin Sanchez,FISICA,OUSH591220I94,olguinso_69@yahoo.com.mx,1,Activo,Generación
+0000000000141SA1805CA038,Homar Olguin Sanchez,FISICA,OUSH591220I94,olguinso_69@yahoo.com.mx,1,Activo,Neteo
+00000000CYM417 F62J 17MY,ARTEFACTOS METALICOS SERRA,MORAL,XAX010101000,amse2010@prodigy.net.mx,2,Activo,Generación
+0000000069I75S FD2J 18MX,Hugo Franco Martinez,FISICA,FAMH600601VA9,hfrancos01@gmail.com,1,Activo,Generación
+0000000070I98S F12J 18MW,Hugo Zuñiga Flores,FISICA,ZUFH580918HB4,supercobra2014@gmail.com,1,Activo,Generación
+0000000071I04S F12J 18MW,Hugo Zuñiga Flores,FISICA,ZUFH580918HB4,supercobra2014@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA104,Humberto Mosconi Castillo,FISICA,XAXX010101000,isabel@sierra.com,1,Activo,Generación
+0000000001416SA1004CA107,Humberto Mosconi Castillo,FISICA,XAXX010101000,isabel@sierra.com,1,Activo,Neteo
+00000000CYM292 KL2E 17NA,INGENIERIA EN MUROS MOVILES SO,MORAL,IMM0202262T0,ingenieriaenmuros@prodigy.net.mx,1,Activo,Generación
+00000000CYM288 KL2E 17NA,INGENIERIA EN MUROS MOVILES SO,MORAL,IMM0202262T0,ingenieriaenmuros@prodigy.net.mx,1,Activo,Neteo
+00000000CYM657 KL2E 17NA,IPN UPIITA,MORAL,XAX010101000,,2,Activo,Generación
+0000000069I27S FD2J 18MX,Irene Soto Hernandez,FISICA,SOHI530908QN0,maquinasoto@yahoo.com,1,Activo,Generación
+0000000070I01S FD2J 18MX,Irene Soto Hernandez,FISICA,SOHI530908QN0,maquinasoto@yahoo.com,1,Activo,Neteo
+0000000081I91S FD2J 18MX,Jaime Gonzales Aguade,FISICA,XAXX010101000,blanca_1253@yahoo.com.mx,1,Activo,Generación
+00000000AMI131 FD2F 14XX,Joel Olvera Ochoa,FISICA,OEOJ610819HI3,volvera-61@hotmail.com,1,Activo,Generación
+00000000AMI132 FD2F 14XX,Joel Olvera Ochoa,FISICA,OEOJ610819HI3,volvera-61@hotmail.com,1,Activo,Neteo
+0000000001416SA1004CA126,Jorge Antonio Garcia Sanchez,FISICA,GASJ600211FS8,jorgegarcia60@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA097,Jorge Antonio Garcia Sanchez,FISICA,GASJ600211FS8,jorgegarcia60@hotmail.com,1,Activo,Neteo
+0000000069I38S FD2J 18MX,Jorge Fernando Galindo Schwinn,FISICA,XAXX010101000,,1,Activo,Generación
+0000000070I19S FD2J 18MX,Jorge Fernando Galindo Schwinn,FISICA,XAXX010101000,,1,Activo,Neteo
+00000000CYM632 KL2E 17NA,Jose Alejandro Flores Salman,FISICA,XAXX010101000,salej5@hotmail.com,1,Activo,Generación
+00000000CYM633 KL2E 17NA,Jose Alejandro Flores Salman,FISICA,XAXX010101000,salej5@hotmail.com,1,Activo,Neteo
+0000000069I56S FD2J 18MX,Jose de Jesus Hernandez Torres,FISICA,HETJ440604T89,jhernandez@directopunto.com,1,Activo,Neteo
+0000000001416SA1004CA052,Jose Gonzales Saravia Calderon,FISICA,GOCJ660622SN3,karin-ane@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA053,Jose Gonzales Saravia Calderon,FISICA,GOCJ660622SN3,karin-ane@hotmail.com,1,Activo,Neteo
+00000000CYM382 F62J 17MY,Jose Luis Velazquez Rodriguez,FISICA,XAXX010101000,veld2020@gmail.com,1,Activo,Generación
+00000000CYM384 F62J 17MY,Jose Luis Velazquez Rodriguez,FISICA,XAXX010101000,veld2020@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA143,Jose Luis Ibarra Vergara,FISICA,XAXX010101000,jlibarra@temporal.com,1,Activo,Generación
+0000000001416SA1004CA142,Jose Luis Ibarra Vergara,FISICA,XAXX010101000,jlibarra@temporal.com,1,Activo,Neteo
+0000000000141SA1805CA019,Juan Enrique Martinez Cruz,FISICA,MACJ711012EN6,emartinezu2@hotmail.com,1,Activo,Generación
+0000000000141SA1805CA018,Juan Enrique Martinez Cruz,FISICA,MACJ711012EN6,emartinezu2@hotmail.com,1,Activo,Neteo
+00000000CS0453 F62J 19MY,Juan Jesus Meza Roman,FISICA,MERJ671228V29,imeza@mram.com.mx,1,Activo,Generación
+00000000AMI133 FD2F 14XX,Laura Eugenia Quintanilla De Acosta,FISICA,RIGM470708AB5,marceloriverog@gmail.com,1,Activo,Generación
+00000000AMI135 FD2F 14XX,Laura Eugenia Quintanilla De Acosta,FISICA,RIGM470708AB5,marceloriverog@gmail.com,1,Activo,Neteo
+0000000068I92S FD2J 18MX,Luis Plata Enriquez,FISICA,XAXX010101000,agaatlacomulco@hotmail.com,1,Activo,Generación
+0000000070I32S FD2J 18MX,Luis Plata Enriquez,FISICA,XAXX010101000,agaatlacomulco@hotmail.com,1,Activo,Neteo
+0000000069I41S FD2J 18MX,MANTENIMIENTO ELECTRONICO Y C,MORAL,MEC8401118A6,atenciondf@melcsa.com,1,Activo,Generación
+0000000070I34S FD2J 18MX,MANTENIMIENTO ELECTRONICO Y C,MORAL,MEC8401118A6,atenciondf@melcsa.com,1,Activo,Neteo
+0000000064I63S F12J 17MW,Maria Luisa Lopez Sotelo,FISICA,XAXX010101000,jmeneses@iusa.com.mx,1,Activo,Generación
+0000000064I41S F12J 17MW,Maria Luisa Lopez Sotelo,FISICA,XAXX010101000,jmeneses@iusa.com.mx,1,Activo,Neteo
+0000000070I84S F12J 18MW,Mauro Flores Medina,FISICA,FOMM6409226Y7,mauro1-floresm@hotmail.com,1,Activo,Generación
+0000000071I06S F12J 18MW,Mauro Flores Medina,FISICA,FOMM6409226Y7,mauro1-floresm@hotmail.com,1,Activo,Neteo
+0000000001412SA1004CA011,MC SONORA RIVER S. A. DE C. V.,MORAL,SRI080411T46,medinacristin@hotmail.com,1,Activo,Generación
+0000000001412SA1004CA012,MC SONORA RIVER S. A. DE C. V.,MORAL,SRI080411T46,medinacristin@hotmail.com,1,Activo,Neteo
+0000000070I74S F12J 18MX,MONTREAL FIRE PROTECTION SERVI,MORAL,XAX010101000,vhugo790321@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA151,Porfirio Rodriguez D,FISICA,LODC380222DX3,ml84700@gmail.com,1,Activo,Generación
+0000000001416SA1004CA115,Porfirio Rodriguez D,FISICA,LODC380222DX3,ml84700@gmail.com,1,Activo,Neteo
+00000000CYM607 KL2E 17NA,Oliver Fernandez Mena,FISICA,XAXX010101000,oliver.fernandez@ofemnet.com,1,Activo,Neteo
+00000000CYM621 KL2E 17NA,Oliver Fernandez Mena,FISICA,XAXX010101000,oliver.fernandez@ofemnet.com,1,Activo,Generación
+0000000069I37S FD2J 18MX,Rodrigo Deyta Casarreal,FISICA,DECR9111034X3,rodrigo_deyta@hotmail.com,1,Activo,Generación
+0000000069I88S FD2J 18MX,Rodrigo Deyta Casarreal,FISICA,DECR9111034X3,rodrigo_deyta@hotmail.com,1,Activo,Neteo
+0000000001416SA1004CA153,Salomon Bernal Alejandrez,FISICA,BEAS561215LY9,campinaber@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA140,Salomon Bernal Alejandrez,FISICA,BEAS561215LY9,campinaber@hotmail.com,1,Activo,Neteo
+00000000CYM414 F62J 17MY,Salvador Cienfuegos Zepeda,FISICA,CIZS4806149S9,salvadorcz991@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA169,Santiago Joel Romo Castillo,FISICA,ROCS610713V14,bodegab6@gmail.com,1,Activo,Generación
+0000000001416SA1004CA156,Santiago Joel Romo Castillo,FISICA,ROCS610713V14,bodegab6@gmail.com,1,Activo,Neteo
+00000000CYM508 KL2E 17NA,SERVICIO COMERCIAL GARIS S.A.,MORAL,SCG820209HP9,jislas@garis.com.mx,1,Activo,Generación
+00000000CYM504 KL2E 17NA,SERVICIO COMERCIAL GARIS S.A.,MORAL,SCG820209HP9,jislas@garis.com.mx,1,Activo,Neteo
+0000000069I23S FD2J 18MX,Silvia Barnetche Y P,FISICA,GUFT660421P10,teresa.guemes@outlook.com,1,Activo,Generación
+0000000070I64S FD2J 18MX,Silvia Barnetche Y P,FISICA,GUFT660421P10,teresa.guemes@outlook.com,1,Activo,Neteo
+00000000CYM619 KL2E 17NA,TEMPLO PARROQUIAL,MORAL,XAX010101000,rguadarramar@hotmail.com,1,Activo,Generación
+0000000001416SA1004CA129,UNION DE COMERCIANTES EN FRUTA,MORAL,XAX010101000,uncofyl@prodigy.net.mx,1,Activo,Generación
+0000000001416SA1004CA049,UNION DE COMERCIANTES EN FRUTA,MORAL,XAX010101000,uncofyl@prodigy.net.mx,1,Activo,Neteo
+0000000001416SA1004CA062,Almirante Bringas S,FISICA,XAXX010101000,,1,Activo,Generación
+0000000001416SA1004CA121,Almirante Bringas S,FISICA,XAXX010101000,,1,Activo,Neteo
+00000000CYM628 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. vialidades,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM606 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. cisternas,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM642 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. bomberos,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM641 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. oficinas,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+0000000001416SA1004CA093,API DE COATZACOALCOS S.A. DE C.V. campo de futbol,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM630 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. cabotaje,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM572 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. policia fiscal,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM571 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. archivo muerto,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM640 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. portada norte,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM629 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. acceso peatonal,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+00000000CYM443 VL2E 17NB,CDPT,MORAL,XAX010101000,cdpt@iusa.com.mx,1,Activo,Generación
+0000000069I09S FD2J 18MX,CENTRO DE SERVICIO AVEMEX S. A.,MORAL,CSA9201101X9,alru1936@hotmail.com,1,Activo,Generación
+00000000CYM610 KL2E 17NA,CENTRO MEXICANO PARA LA FILANT,MORAL,CMF881208TV6,itzia.goyenechea@cemefi.org,1,Activo,Generación
+00000000CYM276 KL2E 17NA,CORPORATIVO IUSA S.A. DE C.V.,MORAL,XAX010101000,corporativo@iusa.com.mx,1,Activo,Generación
+00000000000009SI0402R013,Cpq Cpq Cpq,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R015,Cpq Cpq Cpq,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R009,Cpq Cpq Cpq chiller,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R025,Cpq Cpq Cpq elevadores,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R029,Cpq Cpq Cpq cuarto de maquinas,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R027,Cpq Cpq Cpq planta tratadora,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R030,Cpq Cpq Cpq site,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R028,Cpq Cpq Cpq cascada,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R024,Cpq Cpq Cpq iluminación,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R008,Cpq Cpq Cpq iluminación planta baja,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R010,Cpq Cpq Cpq bombas servicio,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R014,Cpq Cpq Cpq cocina,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000000009SI0402R016,Cpq Cpq Cpq aire acondicionado amen,FISICA,XAXX010101000,medicioncpq@iusa.com.mx,2,Activo,Generación
+00000000CYM566 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000000009SI0402R050,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM564 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM586 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM625 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM580 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM588 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM585 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM584 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM590 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM593 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM495 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM569 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM452 VL2E 17NB,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM594 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CYM591 KL2E 17NA,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000000009SI0402R040,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000000009SI0402R046,ESCUELA NAVAL MILITAR,MORAL,XAX010101000,escuelanaval@marina.com,1,Activo,Generación
+00000000CS1468 F62J 19MY,Leticia Peralta Segura,FISICA,XAXX010101000,,1,Activo,Generación
+00000000CS0487 VL2E 19NB,AVICOLA KOLIBRI DE TEHUACAN,MORAL,AKT140425J70,israel.rodriguez72@avicola-kolibri.com.mx,3,Activo,Generación
+00000000CYM655 KL2E 17NA,AVICOLA KOLIBRI DE TEHUACAN,MORAL,AKT140425J70,israel.rodriguez72@avicola-kolibri.com.mx,3,Activo,Generación
+00000000CYM592 KL2E 17NA,AVICOLA KOLIBRI DE TEHUACAN,MORAL,AKT140425J70,israel.rodriguez72@avicola-kolibri.com.mx,3,Activo,Generación
+00000000CYM800 VL2E 17NB,ESTACIONAMIENTO CORPORATIVO S.A. DE C.V.,MORAL,XAX010101000,corporativo2@iusa.com.mx,1,Activo,Generación
+00000000CS1529 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1515 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1531 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1517 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1513 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1514 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1524 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1505 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1523 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS0459 F62J 19MY,Maria Mercedes Bueno Carrera,FISICA,BUCM440717B53,ricardozapatamarti@gmail.com,1,Activo,Generación
+00000000CS1526 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1521 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1507 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1522 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1527 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS1534 F62J 17MY,CIRCLE K,MORAL,XAX010101000,elacombe@iusa.com.mx,16,Activo,Generación
+00000000CS0485 VL2E 19NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CYM589 KL2E 17NA,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CYM659 KL2E 17NA,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CYM448 VL2E 17NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CS0486 VL2E 19NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CYM600 KL2E 17NA,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CS0488 VL2E 19NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CS1306 VL2E 19NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CYM808 VL2E 17NB,COPPEL S.A. DE C.V.,MORAL,XAX010101000,rafael.lara@coppel.com,8,Activo,Generación
+00000000CS1991 VL2E 19NB,IUSA S.A. DE C.V.,MORAL,IUN390731NH9,,1,Activo,Neteo
+0000000070I24S FD2J 18MX,COLEGIO CAROL BAUR 5SECC,MORAL,XAX010101000,temporal5sec@temporal.com,1,Activo,Neteo
+00000000CS1305 VL2E 19NB,COGENERACION,MORAL,XAX010101000,cogeneracion@iusasol.mx,1,Activo,Generación
+00000000CYM445 VL2E 17NB,COGENERACION 2,MORAL,XAX010101000,cogeneracion2@temporal.com,1,Activo,Neteo
+00000000CYM652 KL2E 17NA,CRUCES DE TABASCO,MORAL,CTA851219C88,gerencia001@grupocruces.com,1,Activo,Generación
+00000000CYM402 F62J 17MY,GAS NATURAL CITY GATE,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM386 F62J 17MY,GAS NATURAL CITY GATE,MORAL,XAX010101000,,1,Activo,Neteo
+0000000000009SAI0402R034,IUSASOL S.A. DE C.V.,MORAL,XAX010101000,iusasolplanta@iusasol.mx,1,Activo,Generación
+00000000000009SI0402R037,IUSASOL S.A. DE C.V.,MORAL,XAX010101000,iusasolplanta@iusasol.mx,1,Activo,Neteo
+0000000000141SA1805CA013,IUSASOL SERVICOS EPC,MORAL,ISI151201BZ2,iusasol@iusasol.mx,1,Activo,Generación
+0000000000141SA1805CA021,IUSASOL SERVICOS EPC,MORAL,ISI151201BZ2,iusasol@iusasol.mx,1,Activo,Generación
+0000000064I44S F12J 17MW,IUSASOL SUMINISTRADORA DE ENERGIA,MORAL,XAX010101000,micro2021@ultgen.com.mx,1,Activo,Generación
+0000000064I45S F12J 17MW,IUSASOL SUMINISTRADORA DE ENERGIA,MORAL,XAX010101000,micro2021@ultgen.com.mx,1,Activo,Generación
+0000000064I46S F12J 17MW,IUSASOL SUMINISTRADORA DE ENERGIA,MORAL,XAX010101000,micro2021@ultgen.com.mx,1,Activo,Generación
+00000000CYM773 VL2E 17NB,IUSA S.A. DE C.V.,MORAL,IUN390731NH9,,1,Activo,Generación
+00000000CS1467 F62J 19MY,LENE CASITAS,MORAL,XAX010101000,velu@cinvestav.mx,1,Activo,Generación
+0000000069I14S FD2J 18MX,Abraham Saade Dayan,FISICA,SADA761115Q92,abrahamsaade@yahoo.com,1,Activo,Generación
+00000000CS1453 F62J 19MY,REPRESENTACIONES Y SUMINISTROS,MORAL,RSI010706FI3,lui.sanvicente@gpoalsa.com,1,Activo,Generación
+00000000CS2446 F62J 19MY,Karen Luna Aboytes,FISICA,XAXX010101000,,1,Activo,Generación
+0000000082I01S FD2J 18MX,BALUARTE 70 S.A. DE C.V.,MORAL,BAL1308218I1,dirbaluarte70@hotmail.com,1,Activo,Neteo
+00000000CS2462 F62J 19MY,Enrique Patiño Magnani Aguilar Cervantes,FISICA,XAXX010101000,recepcion@acpm.mx,1,Activo,Generación
+0000000069I26S FD2J 18MX,ALVAREZ BRAVO CONTADORES Y CON,MORAL,ABC061211PC3,amanalihome@hotmail.com,1,Activo,Generación
+0000000084I52S F12J 20MW,Adolfo Elicea Piza,FISICA,XAXX010101000,adolfoeliceapiza@yahoo.com,1,Activo,Generación
+0000000084I91S FD2J 20MX,Daniel Lopez Flores,FISICA,XAXX010101000,daniel2@prodigy.net.mx,1,Activo,Generación
+00000000CS2465 F62J 19MY,Marco Antonio Perez Olvera,FISICA,PEOM740925QM4,dr_marcoperez@gmail.com,1,Activo,Generación
+0000000069I72S FD2J 18MX,COMERCIAL URANIA,MORAL,CUR9702145A1,d_nelles@hotmail.com,1,Activo,Generación
+0000000069I01S FD2J 18MX,COMERCIAL URANIA,MORAL,CUR9702145A1,d_nelles@hotmail.com,1,Activo,Neteo
+0000000069I29S FD2J 18MX,Tomas Gutiérrez M,FISICA,XAXX010101000,tomasg@temporal.com,1,Activo,Generación
+0000000070I54S FD2J 18MX,Claudia Ruiz Massieu Salinas,FISICA,XAXX010101000,reginamvera1@gmail.com,2,Activo,Neteo
+00000000CS2455 F62J 19MY,Rene Quiroz Mayorga,FISICA,QUMR760726DL5,crodriguez@autogestion.com.mx,1,Activo,Generación
+00000000CYM792 VL2E 17NB,CHROMALOX,MORAL,XAX010101000,gerardo.velasco@chromalox.com,1,Activo,Generación
+0000000069I30S FD2J 18MX,Bernardo Huerta Chavez ACAPULCO 250,FISICA,XAXX010101000,facturaciontotaldeherramientas@hotmail.com,3,Activo,Generación
+00000000CYM764 VL2E 17NB,CORPORATIVO IUSA S.A. DE C.V.,MORAL,XAX010101000,corporativo@iusa.com.mx,1,Activo,Neteo
+0000000069I21S FD2J 18MX,Bernardo Huerta Chavez,FISICA,XAXX010101000,facturaciontotaldeherramientas@hotmail.com,3,Activo,Generación
+00000000CS1982 VL2E 19NB,COGENERACION,MORAL,XAX010101000,cogeneracion@iusasol.mx,1,Activo,Neteo
+0000000069I35S FD2J 18MX,Marina Servín Chávez,FISICA,SECM630822MY0,marina02@temporal.com,1,Activo,Generación
+0000000070I56S FD2J 18MX,Jaime Mario Williars Andrade,FISICA,XAXX010101000,jaimemwillars@gmail.com,1,Activo,Generación
+0000000070I00S FD2J 18MX,Jaime Mario Williars Andrade,FISICA,XAXX010101000,jaimemwillars@gmail.com,1,Activo,Neteo
+00000000CYM844 F62J 18MY,LEGUMBRES VARIAS S.A. DE C.V.,MORAL,LVA120607JV2,jmramosc@prodigy.net.mx,1,Activo,Generación
+0000000068I96S FD2J 18MX,Claudia Ruiz Massieu Salinas,FISICA,XAXX010101000,reginamvera1@gmail.com,2,Activo,Generación
+0000000070I28S FD2J 18MX,Ana Cecilia Martinez Cairo,FISICA,MACA6906127R1,anaceciliamc@telmexmail.com,1,Activo,Generación
+0000000070I09S FD2J 18MX,Ana Cecilia Martinez Cairo,FISICA,MACA6906127R1,anaceciliamc@telmexmail.com,1,Activo,Neteo
+00000000CYM658 KL2E 17NA,Salvador Jose Neme Sastre,FISICA,XAXX010101000,sneme@prodigy.net.mx,1,Activo,Generación
+00000000CYM772 VL2E 17NB,AEROPUERTO INTERNACIONAL DE SANTA LUCIA,MORAL,XAX010101000,aeropuerto.santalucia@gob.mx,2,Activo,Generación
+00000000CYM620 KL2E 17NA,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+00000000CYM838 F62J 18MY,Javier Ramirez Vega,FISICA,RAVJ811122CN2,ravj81@yahoo.com.mx,1,Activo,Generación
+00000000CYM635 KL2E 17NA,IPN UPIITA,MORAL,XAX010101000,,2,Activo,Generación
+00000000019IS5 F12J 21MW,Jose Abel Acuña Bonilla CASA,FISICA,AUBA630702B58,acunaonion1@gmail.com,2,Activo,Neteo
+00000000019IS4 F12J 21MW,Laura Patricia Yañez Parra,FISICA,XAXX010101000,administracion2@lttm.com.mx,1,Activo,Generación
+00000000CS0009 VL2E 17NB,MADERA SINTETICA,MORAL,XAX010101000,lirineo@iusa.com.mx,1,Activo,Generación
+00000000CS1997 VL2E 19NB,SUBESTACION 115 - UNO,MORAL,XAX010101000,,1,Activo,Generación
+00000000CS1996 VL2E 19NB,SUBESTACION 115 - UNO,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM285 KL2E 17NA,Mega 2 Granja Solar,FISICA,XAXX010101000,mega2@iusasol.mx,1,Activo,Generación
+00000000CYM284 KL2E 17NA,Mega 2 Granja Solar,FISICA,XAXX010101000,mega2@iusasol.mx,1,Activo,Generación
+00000000CYM281 KL2E 17NA,Mega 2 Granja Solar,FISICA,XAXX010101000,mega2@iusasol.mx,1,Activo,Generación
+00000000CYM282 KL2E 17NA,Mega 2 Granja Solar,FISICA,XAXX010101000,mega2@iusasol.mx,1,Activo,Generación
+00000000CYM477 KL2E 17NA,Mega 2 Granja Solar,FISICA,XAXX010101000,mega2@iusasol.mx,1,Activo,Generación
+00000000CYM631 KL2E 17NA,API DE COATZACOALCOS S.A. DE C.V. muelles,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+0000000070I68S F12J 18MX,Modesto Salinas Gómez,FISICA,SAGM560722AJ8,modesto_salinas_1@gmail.com,1,Activo,Generación
+0000000001416SA1004CA160,API DE COATZACOALCOS S.A. DE C.V. subestación principal,MORAL,XAX010101000,framos@apicoatza.com,12,Activo,Generación
+0000000000009SAI0402R007,COLEGIO CAROL BAUR,MORAL,XAX010101000,baurjuriquilla@temporal.com,1,Activo,Generación
+0000000000009SAI0402R002,COLEGIO CAROL BAUR,MORAL,XAX010101000,baurjuriquilla@temporal.com,1,Activo,Neteo
+0000000084I51S F12J 20MW,Guadalupe Chavez Tellez,FISICA,CATG721212L73,oiga2008@hotmail.com,1,Activo,Generación
+00000000CYM454 KL2E 17NA,Maria Lucina Martinez Rosas,FISICA,XAXX010101000,pomk1204@gmail.com,1,Activo,Generación
+00000000CYM446 KL2E 17NA,Maria Lucina Martinez Rosas,FISICA,XAXX010101000,pomk1204@gmail.com,1,Activo,Neteo
+0000000001416SA1004CA118,INMOBILIARIA CONTADERO,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM637 KL2E 17NA,FUNDACION CASA ALIANZA,MORAL,XAX010101000,,1,Activo,Generación
+00000000AMI123 FD2F 14XX,Jose Guzman Gonzalez,FISICA,XAXX010101000,guzmanjesus82@gmail.com,1,Activo,Generación
+00000000CS0440 F62J 19MY,"FRAGOSO, CAUSIDICUS S.C. CASA",MORAL,FCA1609051S4,cesar.fragoso@chileros.com.mx,4,Activo,Neteo
+00000000CS2451 F62J 19MY,Lucia Aparicio Garcia,FISICA,AAGL730725547,miguelespram@gmail.com,1,Activo,Generación
+00000000CS2449 F62J 19MY,Leonardo Martinez Alvarez,FISICA,MAAL611106P50,hleonardo50@hotmail.com,1,Activo,Generación
+0000000069I22S FD2J 18MX,TABAST COMERCIALIZADORA S.A. DE C.V.,MORAL,TCO160913LQ6,jesuscpe@gmail.com,1,Activo,Generación
+0000000070I38S FD2J 18MX,Abraham Saade Dayan,FISICA,SADA761115Q92,abrahamsaade@yahoo.com,1,Activo,Neteo
+0000000069I66S FD2J 18MX,Antonio Najera Pineda,FISICA,NAPA6501178W6,jose.saucedo@dimasi.com.mx,1,Activo,Generación
+00000000CYM831 F62J 18MY,Rene Quiroz Mayorga,FISICA,QUMR760726DL5,crodriguez@autogestion.com.mx,1,Activo,Neteo
+0000000069I87S FD2J 18MX,Andres Irme Chao Ebergenyi,FISICA,XAXX010101000,temporal_begona@temporal.com,1,Activo,Neteo
+0000000084I46S F12J 20MW,Luis Rodriguez Arrieta,FISICA,XAXX010101000,luis_arrieta63@hotmail.com,1,Activo,Generación
+0000000069I42S FD2J 18MX,Araceli Graciela Edid Calderon,FISICA,EICA580210PN0,chely707@gmail.com,1,Activo,Generación
+0000000070I40S FD2J 18MX,Ursula Otegui Liñero,FISICA,OELU830105U56,ursulaotegui@gmail.com,1,Activo,Neteo
+00000000CYM848 F62J 18MY,Mariana Cienfuegos Gutierrez,FISICA,XAXX010101000,,2,Activo,Generación
+0000000070I33S FD2J 18MX,DIECSA S.A. DE C.V.,MORAL,DIE820910A70,mneuman@camexcelsior.com.mx,1,Activo,Neteo
+00000000CYM840 F62J 18MY,Mariana Cienfuegos Gutierrez,FISICA,XAXX010101000,,2,Activo,Generación
+0000000068I97S FD2J 18MX,CREMERIA 2000 S.A DE C.V.,MORAL,XAX010101000,alfredo_c_2000@hotmail.com,1,Activo,Neteo
+00000000CYM833 F62J 18MY,Maria del Carmen Fajer Garcia,FISICA,XAXX010101000,,1,Activo,Generación
+00000000CYM849 F62J 18MY,Ana Bertha Cienfuegos Gutierrez,FISICA,XAXX010101000,moy66@hotmail.com,2,Activo,Generación
+0000000069I08S FD2J 18MX,Ricardo Curiel Lopez,FISICA,CULR691226R58,ricapana1969@gmail.com,1,Activo,Generación
+0000000070I30S FD2J 18MX,,,,,,,
+00000000CYM656 KL2E 17NA,FUNDACION CASA ALIANZA,MORAL,XAX010101000,,1,Activo,Generación
+0000000070I71S F12J 18MX,MONTREAL FIRE PROTECTION SERVI,MORAL,XAX010101000,vhugo790321@gmail.com,1,Activo,Generación
+00000000CS0468 F62J 19MY,Ruben Yesin Toledo,FISICA,XAXX010101000,ryesint@gmail.com,1,Activo,Generación
+00000000CYM821 F62J 18MY,Ruben Yesin Toledo,FISICA,XAXX010101000,ryesint@gmail.com,1,Activo,Neteo
+00000000CS0462 F62J 19MY,Eduardo Marquez Ingeniero,FISICA,XAXX010101000,,2,Activo,Generación
+00000000CS0433 F62J 19MY,Eduardo Marquez Ingeniero,FISICA,XAXX010101000,,2,Activo,Neteo
+00000000CYM623 KL2E 17NA,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Neteo
+0000000001416SA1004CA057,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000001416SA1004CA092,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000084I36S F12J 20MW,Pruebas Aragon Aragon,FISICA,XAXX010101000,,1,Activo,Neteo
+0000000084I97S FD2J 20MX,Maria Victoria Zapata Bueno,FISICA,ZABV711222953,,1,Activo,Generación
+0000000070I04S FD2J 18MX,Eduardo Marquez Ingeniero,FISICA,XAXX010101000,,2,Activo,Generación
+00000000CYM824 F62J 18MY,Enrique Antonio Garcia Guevara,FISICA,XAXX010101000,,1,Activo,Generación
+00000000CYM505 KL2E 17NA,Jose Rafael Ojeda Duran,FISICA,XAXX010101000,javieralanis12@hotmail.com,1,Activo,Neteo
+00000000CS2443 F62J 19MY,Maria Luisa Cienfuegos,FISICA,XAXX010101000,,1,Activo,Generación
+0000000064I39S F12J 17MW,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000064I36S F12J 17MW,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000064I38S F12J 17MW,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000064I37S F12J 17MW,AGROFOTOVOLTAICO,MORAL,XAX010101000,risanchez@iusa.com.mx,2,Activo,Generación
+0000000084I35S F12J 20MW,Jaime Alvarado López,FISICA,XAXX010101000,oftaljal@yahoo.com.mx,1,Activo,Generación
+00000000021IS6 FD2J 21MX,Cecilia Mestre Sutcliff,FISICA,XAXX010101000,pilarguerrerorubio@gmail.com,1,Activo,Neteo
+00000000021IS8 FD2J 21MX,Cecilia Mestre Sutcliff,FISICA,XAXX010101000,pilarguerrerorubio@gmail.com,1,Activo,Generación
+0000000070I11S FD2J 18MX,MEXITELEFERICOS S.A. DE C.V.,MORAL,XAX010101000,,1,Activo,Generación
+0000000070I39S FD2J 18MX,COLEGIO CAROL BAUR 5SECC,MORAL,XAX010101000,temporal5sec@temporal.com,1,Activo,Generación
+00000000009SAI180402CA02,CAROL BAUR INTERNATIONAL,MORAL,XAX010101000,,1,Activo,Neteo
+00000000CYM422 F62J 17MY,Jorge Meneses Hernandez,FISICA,XAXX010101000,,1,Activo,Generación
+0000000070I94S F12J 18MW,Laura Martinez Juarez,FISICA,MAJL650105SU6,,1,Activo,Generación
+000000001616SA1102GSM010,Carlos Shapiro Kudler,FISICA,SAKC500718JR4,cshapiro@acumen.mx,1,Activo,Generación
+0000000001416SA1004CA088,Esteban Cea Cea,FISICA,XAXX010101000,,1,Activo,Generación
+00000000CS1476 KL2E 20NA,KOCCELI,MORAL,XAX010101000,,1,Activo,Generación
+00000000CS1477 KL2E 20NA,Jose Alfredo Lopez Gonzalez,FISICA,LOGA740511TJ0,,1,Activo,Generación
+0000000070I96S F12J 18MW,María Isabel Valdez Reyes,FISICA,XAXX010101000,,1,Activo,Generación
+0000000069I64S FD2J 18MX,MUNICIPIO BENITO JUAREZ,MORAL,XAX010101000,,1,Activo,Generación
+00000000CYM452 KL2E 17NA,INMOBILIARIA INSAFE S.A. DE C.V.,MORAL,XAX010101000,enrique.hernandez@parksantafe.com,1,Activo,Generación
+0000000069I73S FD2J 18MX,CREMERIA 2000 S.A DE C.V.,MORAL,XAX010101000,alfredo_c_2000@hotmail.com,1,Activo,Generación
+0000000069I32S FD2J 18MX,Lola Ximena Diez Barroso,FISICA,XAXX010101000,xdiezbarroso@yahoo.com,1,Activo,Generación
+0000000001416SA1004CA089,Raúl Salinas De Gortari,FISICA,XAXX010101000,temporalrs20@gmail.com,4,Activo,Generación
+0000000001416SA1004CA123,Raúl Salinas De Gortari,FISICA,XAXX010101000,temporalrs20@gmail.com,4,Activo,Generación
+00000000CYM415 F62J 17MY,Xavier Hernandez C,FISICA,XAXX010101000,,1,Activo,Generación
+0000000069I05S FD2J 18MX,Ernesto Torres Herrera,FISICA,TOHE730310NW3,,1,Activo,Generación
+0000000069I61S FD2J 18MX,Angelica Alanis Reyes,FISICA,AARA7008265N5,protex@live.com.mx,1,Activo,Generación
+0000000069I17S FD2J 18MX,Angelica Alanis Reyes,FISICA,AARA7008265N5,protex@live.com.mx,1,Activo,Generación
+00000000CS0436 F62J 19MY,Christopher Javier Rodriguez Gómez,FISICA,XAXX010101000,,1,Activo,Generación

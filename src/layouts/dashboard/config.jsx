@@ -29,7 +29,7 @@ export const items = [
     label: 'Tabla21M'
   },
   {
-    href: '/settings',
+    href: '/databaseiusasol',
     icon: (
       <SvgIcon>
         <StorageIcon />

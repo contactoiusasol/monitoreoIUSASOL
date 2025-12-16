@@ -5,6 +5,7 @@ import NotFoundPage from './pages/404';
 import TablaPage from './pages/tabla';
 import GraficasPage from './pages/graficas';
 import SettingsPage from './pages/settings';
+import DatabaseIUSASOLPage from './pages/databaseiusasol';
 import ThemePage from './pages/theme';
 import LoginPage from './pages/login';
 import SignupPage from './pages/signup';
@@ -39,6 +40,10 @@ export const routes = [
       {
         path: 'settings',
         element: <SettingsPage />
+      },
+      {
+        path: 'databaseiusasol',
+        element: <DatabaseIUSASOLPage />
       },
       {
         path: 'theme',
