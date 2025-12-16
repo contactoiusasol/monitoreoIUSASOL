@@ -7,6 +7,7 @@ import GraficasPage from './pages/graficas';
 import SettingsPage from './pages/settings';
 import DatabaseIUSASOLPage from './pages/databaseiusasol';
 import ThemePage from './pages/theme';
+import MedidoresPage from './pages/medidores';
 import LoginPage from './pages/login';
 import SignupPage from './pages/signup';
 import { PrivateRoute } from './components/private-route';
@@ -48,6 +49,10 @@ export const routes = [
       {
         path: 'theme',
         element: <ThemePage />
+      },
+      {
+        path: 'medidores',
+        element: <MedidoresPage />
       },
       {
         path: 'icons',

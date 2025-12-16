@@ -38,7 +38,7 @@ export const items = [
     label: 'BD'
   },
   {
-    href: '/theme',
+    href: '/medidores',
     icon: (
       <SvgIcon>
         <ElectricMeterIcon />
